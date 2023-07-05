@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a junior web developer with a passion for creating useful and functional websites. I familiar worked in javascript and has experience in designing and developing websites from scratch. 
+I'm a web developer with a passion for creating useful and functional websites. I familiar worked in javascript and has experience in designing and developing websites from scratch. 
 <!--
 **hoquocbaoproton/hoquocbaoproton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
